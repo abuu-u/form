@@ -15,7 +15,7 @@ yarn
 
 ### 3. Configure your local environment
 
-Create .env.local file in the root folder and set `NEXT_PUBLIC_REALM_APP_ID` [Find a Realm App ID](https://docs.mongodb.com/realm/get-started/find-your-project-or-app-id/#find-a-realm-application-id):
+Create `.env.local` file in the root folder and set `NEXT_PUBLIC_REALM_APP_ID` [Find a Realm App ID](https://docs.mongodb.com/realm/get-started/find-your-project-or-app-id/#find-a-realm-application-id):
 
 ```bash
 NEXT_PUBLIC_REALM_APP_ID=<YOUR REALM APP ID>
